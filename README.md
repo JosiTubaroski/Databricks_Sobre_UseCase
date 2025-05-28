@@ -62,4 +62,8 @@ Você tem um dataset chamado user_clicks com bilhões de linhas, armazenado como
      LIMIT 10;
 
 
+### ⚙️ Por que isso é Big Data?
 
+- Essa consulta pode rodar sobre bilhões de cliques, graças à distribuição automática feita pelo Spark.
+- O uso do Delta Lake permite leitura rápida, otimizações como Z-Ordering, partition pruning e caching.
+- Mesmo com muitos dados, a consulta retorna resultados rapidamente com recursos elásticos e paralelos do Databricks.

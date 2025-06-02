@@ -5,7 +5,7 @@
 # Databricks Conteudo Exclusivo
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/Databricks_excluisvo/blob/main/README.md">Home</a></p>
+<p><a href="https://github.com/JosiTubaroski/Databricks_excluisvo/blob/main/README.md">DataBricksAulaPrivada</a></p>
 </div> 
 
 # Big Data no Databricks SQL

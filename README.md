@@ -2,7 +2,7 @@
 <p><a href="https://github.com/JosiTubaroski/Fundamentos_Engenharia">Home</a></p>
 </div> 
 
-# DataBrics Conteudo Exclusivo
+# Databricks Conteudo Exclusivo
 
 # Big Data no Databricks SQL
 

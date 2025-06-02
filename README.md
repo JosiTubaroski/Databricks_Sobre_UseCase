@@ -2,6 +2,8 @@
 <p><a href="https://github.com/JosiTubaroski/Fundamentos_Engenharia">Home</a></p>
 </div> 
 
+# DataBrics Conteudo Exclusivo
+
 # Big Data no Databricks SQL
 
 No <b>Databricks SQL</b>, o termo <b>Big Data</b> se refere ao processamento e análise de grandes volumes de dados, com alta variedade e velocidade, utilizando a infraestrutura escalável e distribuida do Databricks, baseada no <b>Apache Spark.</b>
